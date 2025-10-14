@@ -1,0 +1,4 @@
+1010
+SimpleGoal|levantarme temprano|empezar a levantarme a las 5 am.|10|True
+SimpleGoal|hablar con alguien en la iglesia|hablar con una persona cada domingo en la iglesia.|300|False
+ChecklistGoal|ir al templo|ir al templo cada mes del año.|500|1|1|500
