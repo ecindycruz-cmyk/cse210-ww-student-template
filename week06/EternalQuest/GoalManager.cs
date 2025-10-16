@@ -221,7 +221,6 @@ public class GoalManager
                             break;
                         case "ChecklistGoal":
                             
-                            //int chkAmountCompleted = Convert.ToInt32(parts[4]);
                             int target = Convert.ToInt32(parts[5]);
                             int bonus = Convert.ToInt32(parts[6]);
                             _goals.Add(new ChecklistGoal(name, description, points, target, bonus));
